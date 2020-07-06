@@ -154,10 +154,10 @@ class mtcnn():
 
         pnet_predict_end_time = cv2.getTickCount()
         pnet_predict_spend_time = (pnet_predict_end_time - pnet_predict_start_time) * 1000 / cv2.getTickFrequency()
-        print('pnet_predict_spend_time:{}'.format(pnet_predict_spend_time))
+        # print('pnet_predict_spend_time:{}'.format(pnet_predict_spend_time))
 
         image_num = len(scales)
-        print('image_num:{}'.format(image_num))
+        # print('image_room_count:{}'.format(image_num))
         rectangles = []
         for i in range(image_num):
             # 有人脸的概率
@@ -181,7 +181,7 @@ class mtcnn():
         rectangles = utils.NMS(rectangles, 0.8)
         pnet_end_time = cv2.getTickCount()
         pnet_spend_time =  ((pnet_end_time-pnet_start_time)*1000)/cv2.getTickFrequency()
-        print("pnet:{}".format(pnet_spend_time))
+        # print("pnet:{}".format(pnet_spend_time))
 
         if len(rectangles) == 0:
             return rectangles

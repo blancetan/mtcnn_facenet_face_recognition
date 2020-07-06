@@ -18,7 +18,7 @@ import matplotlib.pyplot as plt
 def calculateScales(img):
     copy_img = img.copy()
 
-    pr_scale = 1.0
+    pr_scale = 0.2
     h,w,_= copy_img.shape
 
     if min(w,h)>500:
@@ -31,7 +31,7 @@ def calculateScales(img):
         h = int(h*pr_scale)
 
     scales = []
-    factor = 0.5
+    factor = 0.7
     factor_count = 0
     minl = min(h,w)
     while minl >= 48:

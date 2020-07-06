@@ -1,0 +1,267 @@
+[INFO] 2020-07-06 14:20:12,615 configs.py [line:50] raw_face_dataset:raw_face_dataset
+[INFO] 2020-07-06 14:20:12,616 configs.py [line:51] generate_face_dataset:generate_face_dataset
+[INFO] 2020-07-06 14:20:12,617 configs.py [line:52] facenet_model_dir:model_data/facenet_keras.h5
+[INFO] 2020-07-06 14:20:12,617 configs.py [line:53] tolerance:0.55
+[INFO] 2020-07-06 14:20:12,617 configs.py [line:54] control_num:5
+[INFO] 2020-07-06 14:20:12,620 configs.py [line:71] camera number:0
+[INFO] 2020-07-06 14:20:12,621 configs.py [line:72] camera format:('M', 'J', 'P', 'G')
+[INFO] 2020-07-06 14:20:12,622 configs.py [line:73] camera fps:10
+[INFO] 2020-07-06 14:20:12,622 configs.py [line:74] camera width:640
+[INFO] 2020-07-06 14:20:12,622 configs.py [line:75] camera height:480
+[WARNING] 2020-07-06 14:20:12,701 deprecation.py [line:323] From C:\Anaconda3\envs\karrie_vision\lib\site-packages\tensorflow\python\ops\resource_variable_ops.py:435: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+[INFO] 2020-07-06 14:25:31,673 configs.py [line:50] raw_face_dataset:raw_face_dataset
+[INFO] 2020-07-06 14:25:31,674 configs.py [line:51] generate_face_dataset:generate_face_dataset
+[INFO] 2020-07-06 14:25:31,674 configs.py [line:52] facenet_model_dir:model_data/facenet_keras.h5
+[INFO] 2020-07-06 14:25:31,674 configs.py [line:53] tolerance:0.55
+[INFO] 2020-07-06 14:25:31,675 configs.py [line:54] control_num:5
+[INFO] 2020-07-06 14:25:31,678 configs.py [line:71] camera number:0
+[INFO] 2020-07-06 14:25:31,679 configs.py [line:72] camera format:('M', 'J', 'P', 'G')
+[INFO] 2020-07-06 14:25:31,679 configs.py [line:73] camera fps:10
+[INFO] 2020-07-06 14:25:31,679 configs.py [line:74] camera width:640
+[INFO] 2020-07-06 14:25:31,680 configs.py [line:75] camera height:480
+[WARNING] 2020-07-06 14:25:31,834 deprecation.py [line:323] From C:\Anaconda3\envs\karrie_vision\lib\site-packages\tensorflow\python\ops\resource_variable_ops.py:435: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+[INFO] 2020-07-06 14:27:09,475 configs.py [line:50] raw_face_dataset:raw_face_dataset
+[INFO] 2020-07-06 14:27:09,476 configs.py [line:51] generate_face_dataset:generate_face_dataset
+[INFO] 2020-07-06 14:27:09,476 configs.py [line:52] facenet_model_dir:model_data/facenet_keras.h5
+[INFO] 2020-07-06 14:27:09,476 configs.py [line:53] tolerance:0.55
+[INFO] 2020-07-06 14:27:09,477 configs.py [line:54] control_num:5
+[INFO] 2020-07-06 14:27:09,479 configs.py [line:71] camera number:1
+[INFO] 2020-07-06 14:27:09,480 configs.py [line:72] camera format:('M', 'J', 'P', 'G')
+[INFO] 2020-07-06 14:27:09,480 configs.py [line:73] camera fps:10
+[INFO] 2020-07-06 14:27:09,480 configs.py [line:74] camera width:640
+[INFO] 2020-07-06 14:27:09,480 configs.py [line:75] camera height:480
+[WARNING] 2020-07-06 14:27:09,546 deprecation.py [line:323] From C:\Anaconda3\envs\karrie_vision\lib\site-packages\tensorflow\python\ops\resource_variable_ops.py:435: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+[INFO] 2020-07-06 14:28:10,948 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 15:48:28,972 configs.py [line:50] raw_face_dataset:raw_face_dataset
+[INFO] 2020-07-06 15:48:28,973 configs.py [line:51] generate_face_dataset:generate_face_dataset
+[INFO] 2020-07-06 15:48:28,973 configs.py [line:52] facenet_model_dir:model_data/facenet_keras.h5
+[INFO] 2020-07-06 15:48:28,973 configs.py [line:53] tolerance:0.55
+[INFO] 2020-07-06 15:48:28,973 configs.py [line:54] control_num:5
+[INFO] 2020-07-06 15:48:28,975 configs.py [line:71] camera number:1
+[INFO] 2020-07-06 15:48:28,975 configs.py [line:72] camera format:('M', 'J', 'P', 'G')
+[INFO] 2020-07-06 15:48:28,975 configs.py [line:73] camera fps:10
+[INFO] 2020-07-06 15:48:28,976 configs.py [line:74] camera width:640
+[INFO] 2020-07-06 15:48:28,976 configs.py [line:75] camera height:480
+[WARNING] 2020-07-06 15:48:29,018 deprecation.py [line:323] From C:\Anaconda3\envs\karrie_vision\lib\site-packages\tensorflow\python\ops\resource_variable_ops.py:435: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+[INFO] 2020-07-06 15:51:38,401 configs.py [line:50] raw_face_dataset:raw_face_dataset
+[INFO] 2020-07-06 15:51:38,402 configs.py [line:51] generate_face_dataset:generate_face_dataset
+[INFO] 2020-07-06 15:51:38,402 configs.py [line:52] facenet_model_dir:model_data/facenet_keras.h5
+[INFO] 2020-07-06 15:51:38,402 configs.py [line:53] tolerance:0.55
+[INFO] 2020-07-06 15:51:38,402 configs.py [line:54] control_num:5
+[INFO] 2020-07-06 15:51:38,404 configs.py [line:71] camera number:1
+[INFO] 2020-07-06 15:51:38,404 configs.py [line:72] camera format:('M', 'J', 'P', 'G')
+[INFO] 2020-07-06 15:51:38,404 configs.py [line:73] camera fps:10
+[INFO] 2020-07-06 15:51:38,404 configs.py [line:74] camera width:640
+[INFO] 2020-07-06 15:51:38,405 configs.py [line:75] camera height:480
+[WARNING] 2020-07-06 15:51:38,443 deprecation.py [line:323] From C:\Anaconda3\envs\karrie_vision\lib\site-packages\tensorflow\python\ops\resource_variable_ops.py:435: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+[INFO] 2020-07-06 15:52:27,722 face_recognize.py [line:151] result:Unknown
+[INFO] 2020-07-06 15:52:32,717 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 15:59:14,363 configs.py [line:50] raw_face_dataset:raw_face_dataset
+[INFO] 2020-07-06 15:59:14,363 configs.py [line:51] generate_face_dataset:generate_face_dataset
+[INFO] 2020-07-06 15:59:14,363 configs.py [line:52] facenet_model_dir:model_data/facenet_keras.h5
+[INFO] 2020-07-06 15:59:14,363 configs.py [line:53] tolerance:0.55
+[INFO] 2020-07-06 15:59:14,363 configs.py [line:54] control_num:5
+[INFO] 2020-07-06 15:59:14,366 configs.py [line:71] camera number:1
+[INFO] 2020-07-06 15:59:14,366 configs.py [line:72] camera format:('M', 'J', 'P', 'G')
+[INFO] 2020-07-06 15:59:14,366 configs.py [line:73] camera fps:10
+[INFO] 2020-07-06 15:59:14,367 configs.py [line:74] camera width:640
+[INFO] 2020-07-06 15:59:14,367 configs.py [line:75] camera height:480
+[WARNING] 2020-07-06 15:59:14,405 deprecation.py [line:323] From C:\Anaconda3\envs\karrie_vision\lib\site-packages\tensorflow\python\ops\resource_variable_ops.py:435: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+[INFO] 2020-07-06 16:04:29,956 configs.py [line:50] raw_face_dataset:raw_face_dataset
+[INFO] 2020-07-06 16:04:29,956 configs.py [line:51] generate_face_dataset:generate_face_dataset
+[INFO] 2020-07-06 16:04:29,956 configs.py [line:52] facenet_model_dir:model_data/facenet_keras.h5
+[INFO] 2020-07-06 16:04:29,956 configs.py [line:53] tolerance:0.55
+[INFO] 2020-07-06 16:04:29,957 configs.py [line:54] control_num:5
+[INFO] 2020-07-06 16:04:29,959 configs.py [line:71] camera number:1
+[INFO] 2020-07-06 16:04:29,959 configs.py [line:72] camera format:('M', 'J', 'P', 'G')
+[INFO] 2020-07-06 16:04:29,959 configs.py [line:73] camera fps:10
+[INFO] 2020-07-06 16:04:29,960 configs.py [line:74] camera width:640
+[INFO] 2020-07-06 16:04:29,960 configs.py [line:75] camera height:480
+[WARNING] 2020-07-06 16:04:29,998 deprecation.py [line:323] From C:\Anaconda3\envs\karrie_vision\lib\site-packages\tensorflow\python\ops\resource_variable_ops.py:435: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+[INFO] 2020-07-06 16:05:15,715 face_recognize.py [line:151] result:Unknown
+[INFO] 2020-07-06 16:05:24,666 face_recognize.py [line:151] result:Unknown
+[INFO] 2020-07-06 16:05:31,458 face_recognize.py [line:151] result:Unknown
+[INFO] 2020-07-06 16:05:38,041 face_recognize.py [line:151] result:Unknown
+[INFO] 2020-07-06 16:05:48,468 face_recognize.py [line:151] result:Unknown
+[INFO] 2020-07-06 16:05:52,855 face_recognize.py [line:151] result:Unknown
+[INFO] 2020-07-06 16:06:30,605 face_recognize.py [line:151] result:Unknown
+[INFO] 2020-07-06 16:06:35,732 face_recognize.py [line:151] result:Unknown
+[INFO] 2020-07-06 16:06:40,074 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:06:44,808 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:06:49,605 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:08:42,741 configs.py [line:50] raw_face_dataset:raw_face_dataset
+[INFO] 2020-07-06 16:08:42,742 configs.py [line:51] generate_face_dataset:generate_face_dataset
+[INFO] 2020-07-06 16:08:42,742 configs.py [line:52] facenet_model_dir:model_data/facenet_keras.h5
+[INFO] 2020-07-06 16:08:42,742 configs.py [line:53] tolerance:0.55
+[INFO] 2020-07-06 16:08:42,742 configs.py [line:54] control_num:5
+[INFO] 2020-07-06 16:08:42,744 configs.py [line:71] camera number:1
+[INFO] 2020-07-06 16:08:42,744 configs.py [line:72] camera format:('M', 'J', 'P', 'G')
+[INFO] 2020-07-06 16:08:42,744 configs.py [line:73] camera fps:10
+[INFO] 2020-07-06 16:08:42,745 configs.py [line:74] camera width:640
+[INFO] 2020-07-06 16:08:42,745 configs.py [line:75] camera height:480
+[WARNING] 2020-07-06 16:08:42,782 deprecation.py [line:323] From C:\Anaconda3\envs\karrie_vision\lib\site-packages\tensorflow\python\ops\resource_variable_ops.py:435: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+[INFO] 2020-07-06 16:10:16,615 configs.py [line:50] raw_face_dataset:raw_face_dataset
+[INFO] 2020-07-06 16:10:16,615 configs.py [line:51] generate_face_dataset:generate_face_dataset
+[INFO] 2020-07-06 16:10:16,615 configs.py [line:52] facenet_model_dir:model_data/facenet_keras.h5
+[INFO] 2020-07-06 16:10:16,616 configs.py [line:53] tolerance:0.55
+[INFO] 2020-07-06 16:10:16,616 configs.py [line:54] control_num:5
+[INFO] 2020-07-06 16:10:16,618 configs.py [line:71] camera number:1
+[INFO] 2020-07-06 16:10:16,619 configs.py [line:72] camera format:('M', 'J', 'P', 'G')
+[INFO] 2020-07-06 16:10:16,619 configs.py [line:73] camera fps:10
+[INFO] 2020-07-06 16:10:16,619 configs.py [line:74] camera width:640
+[INFO] 2020-07-06 16:10:16,619 configs.py [line:75] camera height:480
+[WARNING] 2020-07-06 16:10:16,661 deprecation.py [line:323] From C:\Anaconda3\envs\karrie_vision\lib\site-packages\tensorflow\python\ops\resource_variable_ops.py:435: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+[INFO] 2020-07-06 16:11:00,994 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:11:04,113 face_recognize.py [line:151] result:Unknown
+[INFO] 2020-07-06 16:11:07,193 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:11:10,266 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:11:13,321 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:11:16,399 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:11:19,459 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:11:22,458 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:11:27,624 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:11:30,687 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:11:33,874 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:11:36,833 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:11:39,902 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:11:42,934 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:11:45,944 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:11:48,884 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:11:51,862 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:11:54,927 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:12:11,125 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:12:14,261 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:12:17,381 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:12:23,734 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:12:26,708 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:12:35,125 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:12:38,069 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:12:41,119 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:12:44,234 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:12:47,294 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:12:50,310 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:12:53,410 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:12:56,525 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:12:59,638 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:13:02,785 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:15:34,636 configs.py [line:50] raw_face_dataset:raw_face_dataset
+[INFO] 2020-07-06 16:15:34,637 configs.py [line:51] generate_face_dataset:generate_face_dataset
+[INFO] 2020-07-06 16:15:34,637 configs.py [line:52] facenet_model_dir:model_data/facenet_keras.h5
+[INFO] 2020-07-06 16:15:34,637 configs.py [line:53] tolerance:0.55
+[INFO] 2020-07-06 16:15:34,637 configs.py [line:54] control_num:5
+[INFO] 2020-07-06 16:15:34,639 configs.py [line:71] camera number:1
+[INFO] 2020-07-06 16:15:34,639 configs.py [line:72] camera format:('M', 'J', 'P', 'G')
+[INFO] 2020-07-06 16:15:34,639 configs.py [line:73] camera fps:10
+[INFO] 2020-07-06 16:15:34,640 configs.py [line:74] camera width:640
+[INFO] 2020-07-06 16:15:34,640 configs.py [line:75] camera height:480
+[WARNING] 2020-07-06 16:15:34,679 deprecation.py [line:323] From C:\Anaconda3\envs\karrie_vision\lib\site-packages\tensorflow\python\ops\resource_variable_ops.py:435: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+[INFO] 2020-07-06 16:16:21,556 face_recognize.py [line:151] result:Unknown
+[INFO] 2020-07-06 16:16:24,816 face_recognize.py [line:151] result:Unknown
+[INFO] 2020-07-06 16:16:27,900 face_recognize.py [line:151] result:Unknown
+[INFO] 2020-07-06 16:16:36,512 face_recognize.py [line:151] result:Unknown
+[INFO] 2020-07-06 16:16:39,579 face_recognize.py [line:151] result:Unknown
+[INFO] 2020-07-06 16:16:42,614 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:16:45,768 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:16:48,770 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:16:51,841 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:16:55,051 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:23:57,457 configs.py [line:50] raw_face_dataset:raw_face_dataset
+[INFO] 2020-07-06 16:23:57,458 configs.py [line:51] generate_face_dataset:generate_face_dataset
+[INFO] 2020-07-06 16:23:57,458 configs.py [line:52] facenet_model_dir:model_data/facenet_keras.h5
+[INFO] 2020-07-06 16:23:57,458 configs.py [line:53] tolerance:0.55
+[INFO] 2020-07-06 16:23:57,458 configs.py [line:54] control_num:5
+[INFO] 2020-07-06 16:23:57,460 configs.py [line:71] camera number:1
+[INFO] 2020-07-06 16:23:57,460 configs.py [line:72] camera format:('M', 'J', 'P', 'G')
+[INFO] 2020-07-06 16:23:57,460 configs.py [line:73] camera fps:10
+[INFO] 2020-07-06 16:23:57,460 configs.py [line:74] camera width:640
+[INFO] 2020-07-06 16:23:57,460 configs.py [line:75] camera height:480
+[WARNING] 2020-07-06 16:23:57,499 deprecation.py [line:323] From C:\Anaconda3\envs\karrie_vision\lib\site-packages\tensorflow\python\ops\resource_variable_ops.py:435: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+[INFO] 2020-07-06 16:24:38,866 face_recognize.py [line:151] result:Unknown
+[INFO] 2020-07-06 16:24:41,788 face_recognize.py [line:151] result:Unknown
+[INFO] 2020-07-06 16:24:45,374 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:24:48,478 face_recognize.py [line:151] result:Unknown
+[INFO] 2020-07-06 16:24:51,734 face_recognize.py [line:151] result:Unknown
+[INFO] 2020-07-06 16:24:58,739 face_recognize.py [line:151] result:Unknown
+[INFO] 2020-07-06 16:25:01,766 face_recognize.py [line:151] result:Unknown
+[INFO] 2020-07-06 16:25:04,749 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:25:07,710 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:25:10,635 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:25:13,541 face_recognize.py [line:151] result:Unknown
+[INFO] 2020-07-06 16:26:06,270 face_recognize.py [line:151] result:Unknown
+[INFO] 2020-07-06 16:26:09,128 face_recognize.py [line:151] result:Unknown
+[INFO] 2020-07-06 16:26:12,044 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:26:15,119 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:27:30,702 configs.py [line:50] raw_face_dataset:raw_face_dataset
+[INFO] 2020-07-06 16:27:30,703 configs.py [line:51] generate_face_dataset:generate_face_dataset
+[INFO] 2020-07-06 16:27:30,703 configs.py [line:52] facenet_model_dir:model_data/facenet_keras.h5
+[INFO] 2020-07-06 16:27:30,703 configs.py [line:53] tolerance:0.55
+[INFO] 2020-07-06 16:27:30,703 configs.py [line:54] control_num:5
+[INFO] 2020-07-06 16:27:30,705 configs.py [line:71] camera number:1
+[INFO] 2020-07-06 16:27:30,705 configs.py [line:72] camera format:('M', 'J', 'P', 'G')
+[INFO] 2020-07-06 16:27:30,705 configs.py [line:73] camera fps:10
+[INFO] 2020-07-06 16:27:30,706 configs.py [line:74] camera width:640
+[INFO] 2020-07-06 16:27:30,706 configs.py [line:75] camera height:480
+[WARNING] 2020-07-06 16:27:30,743 deprecation.py [line:323] From C:\Anaconda3\envs\karrie_vision\lib\site-packages\tensorflow\python\ops\resource_variable_ops.py:435: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+[INFO] 2020-07-06 16:28:10,111 face_recognize.py [line:151] result:Unknown
+[INFO] 2020-07-06 16:28:22,845 face_recognize.py [line:151] result:Unknown
+[INFO] 2020-07-06 16:28:33,902 face_recognize.py [line:151] result:Unknown
+[INFO] 2020-07-06 16:28:37,748 face_recognize.py [line:151] result:Unknown
+[INFO] 2020-07-06 16:28:41,372 face_recognize.py [line:151] result:Unknown
+[INFO] 2020-07-06 16:28:44,871 face_recognize.py [line:151] result:Unknown
+[INFO] 2020-07-06 16:28:47,834 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:28:50,799 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:28:53,767 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:29:21,460 face_recognize.py [line:151] result:txl
+[INFO] 2020-07-06 16:29:25,469 face_recognize.py [line:151] result:Unknown
+[INFO] 2020-07-06 16:29:28,667 face_recognize.py [line:151] result:Unknown
+[INFO] 2020-07-06 16:29:32,184 face_recognize.py [line:151] result:Unknown
+[INFO] 2020-07-06 16:29:55,234 face_recognize.py [line:151] result:Unknown
+[INFO] 2020-07-06 16:29:59,235 face_recognize.py [line:151] result:Unknown
+[INFO] 2020-07-06 16:30:03,382 face_recognize.py [line:151] result:Unknown
+[INFO] 2020-07-06 16:30:06,848 face_recognize.py [line:151] result:Unknown
+[INFO] 2020-07-06 16:30:10,314 face_recognize.py [line:151] result:Unknown
+[INFO] 2020-07-06 16:30:13,294 face_recognize.py [line:151] result:Unknown
+[INFO] 2020-07-06 16:30:16,444 face_recognize.py [line:151] result:Unknown
+[INFO] 2020-07-06 16:30:20,088 face_recognize.py [line:151] result:Unknown
+[INFO] 2020-07-06 16:30:23,215 face_recognize.py [line:151] result:Unknown
+[INFO] 2020-07-06 16:30:40,477 face_recognize.py [line:151] result:Unknown
+[INFO] 2020-07-06 16:33:03,869 configs.py [line:50] raw_face_dataset:raw_face_dataset
+[INFO] 2020-07-06 16:33:03,869 configs.py [line:51] generate_face_dataset:generate_face_dataset
+[INFO] 2020-07-06 16:33:03,869 configs.py [line:52] facenet_model_dir:model_data/facenet_keras.h5
+[INFO] 2020-07-06 16:33:03,870 configs.py [line:53] tolerance:0.55
+[INFO] 2020-07-06 16:33:03,870 configs.py [line:54] control_num:5
+[INFO] 2020-07-06 16:33:03,871 configs.py [line:71] camera number:1
+[INFO] 2020-07-06 16:33:03,872 configs.py [line:72] camera format:('M', 'J', 'P', 'G')
+[INFO] 2020-07-06 16:33:03,872 configs.py [line:73] camera fps:10
+[INFO] 2020-07-06 16:33:03,872 configs.py [line:74] camera width:640
+[INFO] 2020-07-06 16:33:03,872 configs.py [line:75] camera height:480
+[WARNING] 2020-07-06 16:33:03,927 deprecation.py [line:323] From C:\Anaconda3\envs\karrie_vision\lib\site-packages\tensorflow\python\ops\resource_variable_ops.py:435: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+[INFO] 2020-07-06 16:33:59,288 face_recognize.py [line:151] result:Unknown
+[INFO] 2020-07-06 16:34:02,066 face_recognize.py [line:151] result:Unknown
+[INFO] 2020-07-06 16:34:05,001 face_recognize.py [line:151] result:Unknown

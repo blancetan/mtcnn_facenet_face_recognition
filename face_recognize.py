@@ -78,7 +78,7 @@ class face_rec():
         dectFace_end_time  = cv2.getTickCount()
 
         spend_time = ((dectFace_end_time-dectFace_stat_time)*1000)/cv2.getTickFrequency()
-        print("spend_time:",spend_time)
+        # print("spend_time:",spend_time)
 
         # if not detect face  return
         if len(rectangles)==0:
